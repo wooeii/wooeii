@@ -5,7 +5,7 @@
 * **[CNN-Recycle-Classification](https://github.com/wooeii/CNN-Recycle-Classification)**: CNN 기반 재활용품 이진 분류 모델 (한국정보기술학회 금상) 
   
 ### 🔗 Links  
-* 💼 **Portfolio**:
+* 💼 **Portfolio**:  
 https://www.notion.so/SpringBoot-Music-Archive-31897446a87a800f9553e384eda46096?source=copy_link  
 https://www.notion.so/Sim2Real-31597446a87a80748027cb33b7e4dddb?source=copy_link  
 https://www.notion.so/CNN-2e697446a87a806fb109c8b51f35af2c?source=copy_link  
